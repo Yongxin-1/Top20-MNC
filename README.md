@@ -1,14 +1,20 @@
 # Top 20 MNC Profiling
 
-## AstraZeneca — v2.0
+## AstraZeneca — v2.1 修复版
 
-[下载可编辑 PPTX v2.0](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AstraZeneca_MNC_Profile_v2.0.pptx)
+[下载可编辑 PPTX v2.1](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AstraZeneca_MNC_Profile_v2.1.pptx)
 
-[查看 PDF v2.0](deliverables/AstraZeneca_MNC_Profile_v2.0.pdf)
+[查看 PDF v2.1](deliverables/AstraZeneca_MNC_Profile_v2.1.pdf)
 
 [下载底层数据与来源 Excel v2.0](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AstraZeneca_Profile_Data_and_Sources_v2.0.xlsx)
 
 [修改说明与统计口径](deliverables/v2_Changes_and_Methodology_中文.md)
+
+### v2.1 格式修复
+
+修正了图表内部编号，格式校验错误由12处降为0；五页已重新导出检查，第5页完整。正文和数据未调整，Excel沿用v2.0。旧v2.0 PPTX下载链接也已替换为修复后内容。
+
+[修复与验证说明](deliverables/v2.1_Compatibility_Repair.md)
 
 ### 本版内容
 
@@ -21,7 +27,7 @@
 ### 如何下载
 
 1. 登录有权访问仓库的 GitHub 账号。
-2. 点击上方“下载可编辑 PPTX v2.0”；或打开 `deliverables` 文件夹中的 PPTX。
+2. 点击上方“下载可编辑 PPTX v2.1”；或打开 `deliverables` 文件夹中的 PPTX。
 3. 在文件页面点击 **Download raw file**（向下箭头）保存。无法在线预览不影响下载。
 4. 也可以在仓库主页点击 **Code → Download ZIP**，解压后在 `deliverables` 找到文件。
 
