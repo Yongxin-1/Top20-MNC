@@ -28,6 +28,14 @@
 
 [查看核对表与证据说明](deliverables/AstraZeneca_Pharmcube_Name_Crosswalk_中文.md)
 
+### 17项Phase III完整适应症（2026-10-23）
+
+逐资产整理适应症、完整试验人群、联合方案及官方来源页码。补充rilvegostomig在已上市产品LCM表中的尿路上皮癌、子宫内膜癌等组合项目；Phase I/III与Phase II/III另列，标记Initiating项目。沿用2026-07-27快照，不声称全球注册库全量覆盖。
+
+[下载17项资产完整适应症Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AstraZeneca_17_PhaseIII_Full_Indications_2026Q2.xlsx)
+
+[查看适应症概览与展示建议](deliverables/AstraZeneca_17_PhaseIII_Indications_中文.md)
+
 ### 本版内容
 
 1. Executive Summary：事实摘要。
