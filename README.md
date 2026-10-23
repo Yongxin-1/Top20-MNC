@@ -20,6 +20,14 @@
 
 [查看口径、完整名单与来源](deliverables/AstraZeneca_LateStage_NME_Count_Reconciliation_中文.md)
 
+### 医药魔方名称核对（2026-10-23）
+
+34条输入与AZ官网/临床附录对照：确认13个独立核心资产；2个中文候选别名待确认；6个核心资产尚无明确对应。AZD6234为Phase II。未把历史Phase III-ready等同正在开展Phase III；未核实中文身份的项目保留待定。
+
+[下载34条名称、21项覆盖、modality与target对照Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AstraZeneca_Pharmcube_Name_Crosswalk_and_Targets_2026Q2.xlsx)
+
+[查看核对表与证据说明](deliverables/AstraZeneca_Pharmcube_Name_Crosswalk_中文.md)
+
 ### 本版内容
 
 1. Executive Summary：事实摘要。
