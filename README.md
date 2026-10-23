@@ -12,6 +12,14 @@
 
 ![第2页：收入、US LOE与后续资产](deliverables/AstraZeneca_v2.2_slide-2.png)
 
+### 管线计数澄清（2026-10-23）
+
+旧PPT第3页的45条网页项目、21个公司披露late-stage NMEs、4个under-review新资产是不同口径，不可直接加总。新增资产级对账：按新活性资产去重、已获批资产另列、取最高阶段，重建为17个Phase III +4个under review。此为分析重建，尚非公司明示的headline21逐项名单；本次未改动PPT。
+
+[下载21项资产与45条原始项目逐行对账Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AstraZeneca_LateStage_NME_Count_Reconciliation_2026Q2.xlsx)
+
+[查看口径、完整名单与来源](deliverables/AstraZeneca_LateStage_NME_Count_Reconciliation_中文.md)
+
 ### 本版内容
 
 1. Executive Summary：事实摘要。
