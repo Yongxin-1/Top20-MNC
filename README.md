@@ -1,8 +1,20 @@
 # Top 20 MNC Profiling
 
-## AZ 管理层前瞻页 — 2026-11-04 工作草稿
+## AZ Earnings-call summary — H1 → Q3 2026（transcript 版）
 
-已填写用户上传主文件第10页，其余10页保持不变。**最新call transcript/Q&A尚未读取，证据仅为2026-07-27及以前已保存的官方业绩材料。**网络代理403阻止最新IR来源读取，页面保留醒目草稿标识。请勿将其当作已完成的最新电话会总结。
+已读取用户提供的H1与Q3两份transcript，覆盖预备发言和Q&A，并更新主文件第10页；其余10页保持原样。主页面6条信号，底稿12个主题、43条可定位原文。原始DOCX未上传仓库。此版替代此前仅依据presentation的工作草稿。
+
+[下载更新后的主PPT](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Top20_MNC_Strategy_Intelligence_AZ_Earnings_Call_Summary_20261104.pptx)
+
+[查看单页PDF](deliverables/AZ_Earnings_Call_Summary_20261104_OnePage.pdf) · [下载原文与比较底稿Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AZ_H1_Q3_2026_Transcript_Evidence_20261104.xlsx) · [查看可搜索原文片段与来源定位](deliverables/AZ_H1_Q3_2026_Transcript_Evidence_20261104.md)
+
+P###表示原始DOCX正文段落号（含空段落），不是页码。未在H1识别到某提法不等于公司首次披露；潜在组合兴趣不等于已启动试验。IR公共链接仅作导航，本次证据为用户上传文稿。
+
+![AZ Earnings-call summary](deliverables/AZ_Earnings_Call_Summary_20261104_slide10.png)
+
+## 历史：管理层前瞻工作草稿（已由上方transcript版替代）
+
+已填写用户上传主文件第10页，其余10页保持不变。**该历史草稿当时未读取transcript/Q&A，证据仅为2026-07-27及以前的官方业绩材料；现已由上方transcript版替代。**网络代理403阻止最新IR来源读取，页面保留醒目草稿标识。请勿将其当作已完成的最新电话会总结。
 
 [下载主PPT（第10页已填写）](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Top20_MNC_Strategy_Intelligence_AZ_Management_Outlook_DRAFT_20261104.pptx)
 
