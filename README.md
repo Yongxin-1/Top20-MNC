@@ -1,5 +1,13 @@
 # Top 20 MNC Profiling
 
+## AZ Earnings-call summary — v3：药物括号标注MoA
+
+在独立H1/Q3总结页中，为16个提及的药物添加简短MoA/target-modality说明；保留原文证据和12条引用链接，其余10页不变。Excel新增MoA词表。
+
+[下载最新版PPT（含MoA）](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Top20_MNC_Strategy_Intelligence_AZ_Call_Agendas_20261104_v3_MoA.pptx)
+
+[查看单页PDF](deliverables/AZ_Call_Agendas_v3_MoA_OnePage.pdf) · [下载证据底稿与MoA词表](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AZ_Call_Agendas_Evidence_v3_MoA.xlsx)
+
 ## AZ Earnings-call summary — 分别总结每次call的前瞻R&D议题（v2）
 
 H1和Q3各6条主议题，独立总结管理层专门强调或Q&A深入讨论的未来开发方向，服务内部R&Dstrategy跟踪。正文不再按两次call对比或变化分类；底稿另列议题被讨论的原因、具体下一步、分析者R&D关注维度及证据边界。其余10页保持不变。
