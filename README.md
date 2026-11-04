@@ -1,6 +1,16 @@
 # Top 20 MNC Profiling
 
-## AZ Earnings-call summary — H1 → Q3 2026（transcript 版）
+## AZ Earnings-call summary — 分别总结每次call的前瞻R&D议题（v2）
+
+H1和Q3各6条主议题，独立总结管理层专门强调或Q&A深入讨论的未来开发方向，服务内部R&Dstrategy跟踪。正文不再按两次call对比或变化分类；底稿另列议题被讨论的原因、具体下一步、分析者R&D关注维度及证据边界。其余10页保持不变。
+
+[下载更新后的PPT v2](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Top20_MNC_Strategy_Intelligence_AZ_Call_Agendas_20261104_v2.pptx)
+
+[查看单页PDF](deliverables/AZ_Call_Agendas_v2_OnePage.pdf) · [下载逐议题证据Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AZ_H1_Q3_2026_Call_Agendas_Evidence_v2.xlsx) · [查看原文与R&D关注维度](deliverables/AZ_H1_Q3_2026_Call_Agendas_Evidence_v2.md)
+
+![每次call的前瞻议题](deliverables/AZ_Call_Agendas_v2_slide10.png)
+
+## 历史：H1 → Q3 transcript 对比版（已由上方独立call总结替代）
 
 已读取用户提供的H1与Q3两份transcript，覆盖预备发言和Q&A，并更新主文件第10页；其余10页保持原样。主页面6条信号，底稿12个主题、43条可定位原文。原始DOCX未上传仓库。此版替代此前仅依据presentation的工作草稿。
 
