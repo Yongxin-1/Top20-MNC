@@ -1,5 +1,14 @@
 # Top 20 MNC Profiling
 
+## Johnson & Johnson — P4按TA排序Excel修订版（2026-11-04）
+
+[下载P4产品销售、MoA与TA文字块Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/JNJ_P4_TA_Sorted_Product_Sales_and_TA_Blocks_20261104_v2.xlsx)
+
+严格筛选FY2025销售>USD1bn的15个产品/披露家族。按完整TA的FY2025销售升序排列，同TA内按产品销售升序排列，最大TA和产品在下方。附FY2021–25及FY2026H1数据、MoA、来源页码，以及FY2025/FY2026H1右侧TA文字块。SPRAVATO的FY2021收入在上传材料中未单列披露，保留空白；不并入Others。
+
+本次未修改PPT。下方J&J初版P4的分组及P5的LCM项目展示不符合用户范围，不能作为本次口径。P5仅限Phase III NMEs、under-review NMEs和2026年首次获批NMEs；本Excel附范围核对，不声称已有完整NME清单。JNJ-4804的co-antibody指guselkumab与golimumab两个单抗联合，不是单分子双抗。
+
+
 ## Johnson & Johnson — 2026-11-04，P3–P10初版
 
 [下载更新后的19页主PPT](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Top20_MNC_Portfolio_and_Pipeline_Strategy_Intelligence_JNJ_20261104_v1.pptx)
