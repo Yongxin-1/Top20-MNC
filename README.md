@@ -1,5 +1,18 @@
 # Top 20 MNC Profiling
 
+## Johnson & Johnson — 2026-11-04，P3–P10初版
+
+[下载更新后的19页主PPT](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Top20_MNC_Portfolio_and_Pipeline_Strategy_Intelligence_JNJ_20261104_v1.pptx)
+
+[查看J&J八页PDF](deliverables/JNJ_Section_P3-P10_20261104_v1.pdf) · [下载数据与证据Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/JNJ_Profile_Data_and_Evidence_20261104.xlsx) · [方法与覆盖限制](deliverables/JNJ_Section_Methodology_中文.md)
+
+J&J P3–P10已替换，AZ P11–P18及其他页面保留。新增3个原生可编辑图表，J&J段含5个原生表格。财务聚焦InnovativeMedicine，五年逐产品核平。
+
+**晚期管线为10项可核实的选定项目；BD为7笔具名2024–26交易，不是全量NME或全量BD census。**上传材料未提供完整清单，缺失不计为零；详细定义见底稿。
+
+![J&J章节概览](deliverables/JNJ_Section_Overview.png)
+
+
 ## AZ Earnings-call summary — v5：Q3左／H1右，正文简洁版
 
 第10页Q3在左、H1在右；保留药物MoA，去除每个话题下方Prepared/Q&A与段落号标注。来源留在页脚、备注和既有证据底稿；其余页面不变。
