@@ -1,5 +1,13 @@
 # Top 20 MNC Profiling
 
+## AZ 管理层前瞻页 — 2026-11-04 工作草稿
+
+已填写用户上传主文件第10页，其余10页保持不变。**最新call transcript/Q&A尚未读取，证据仅为2026-07-27及以前已保存的官方业绩材料。**网络代理403阻止最新IR来源读取，页面保留醒目草稿标识。请勿将其当作已完成的最新电话会总结。
+
+[下载主PPT（第10页已填写）](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Top20_MNC_Strategy_Intelligence_AZ_Management_Outlook_DRAFT_20261104.pptx)
+
+[查看单页PDF](deliverables/AZ_Management_Outlook_DRAFT_OnePage_20261104.pdf) · [下载逐条证据Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AZ_Management_Outlook_Evidence_DRAFT_20261104.xlsx) · [来源与完成范围](deliverables/AZ_Management_Outlook_DRAFT_Methodology_中文.md)
+
 ## AstraZeneca — v2.2
 
 [下载可编辑 PPTX v2.2](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AstraZeneca_MNC_Profile_v2.2.pptx)
