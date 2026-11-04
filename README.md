@@ -1,5 +1,14 @@
 # Top 20 MNC Profiling
 
+## J&J — 3Q26官方管线：NME / LCM逐项核对
+
+[下载Phase III与Registration分类Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/JNJ_PhaseIII_Registration_NME_LCM_Reconciliation_3Q2026.xlsx)
+
+依据用户上传的JNJ-Pipeline-3Q26.pdf（2026-10-13快照）逐卡片提取，93条阶段数与官方首页完全一致。40条Phase III项目中，10条属于5个独立药物NME（bleximenib、pasritamig、ramantamig、seltorexant、milvexian），1条为NBTXR3非药物放疗平台，29条为已有活性分子LCM。17条Registration项目包含icotrokinra初始新分子项目与16条LCM；ICOTYDE在H1/Q3 call已讨论上市，不能仅凭Registration标签将其算成当前未获批under-review NME。
+
+Excel保留全部57条晚期项目原文、颜色阶段、分类理由和PDF页码，另列5项NME完整适应症/试验及机制补充说明。原PDF为selected/non-exhaustive清单，未据此声称公司全球under-review资产为零；MoA补充注释与PDF直接披露字段明确区分。本次未改PPT。
+
+
 ## Johnson & Johnson — P4按TA排序Excel修订版（2026-11-04）
 
 [下载P4产品销售、MoA与TA文字块Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/JNJ_P4_TA_Sorted_Product_Sales_and_TA_Blocks_20261104_v2.xlsx)
