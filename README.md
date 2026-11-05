@@ -1,5 +1,12 @@
 # Top 20 MNC Profiling
 
+## J&J创新药M&A — 2021至今的已核实案例底稿（2026-11-05）
+
+[下载Excel：6笔交易、11项资产/平台、历史阶段与机制字段](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/JNJ_Innovative_Medicine_MA_2021_2026_Verified_Cases_and_Gaps_20261105.xlsx) · [覆盖范围与缺口](deliverables/JNJ_Innovative_Medicine_MA_2021_2026_Verified_Cases_and_Gaps_20261105.md)
+
+**非全量完成版。** 仅Innovative Medicine；已确认Ambrx、Proteologix、Yellow Jersey、Intra-Cellular、Halda、Firefly六笔交易。当前外部访问403，不能完成截至11月5日的全量公告检索；2021–23未识别不等于零交易，2026最晚已读来源为10月13日。收购时Phase不使用当前阶段倒填；未在所读附注确认的MoA/具体靶点等字段明确标注待一手核验。
+
+
 ## J&J — 3Q26官方管线：NME / LCM逐项核对
 
 [下载Phase III与Registration分类Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/JNJ_PhaseIII_Registration_NME_LCM_Reconciliation_3Q2026.xlsx)
