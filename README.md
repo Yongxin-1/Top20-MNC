@@ -1,5 +1,18 @@
 # Top 20 MNC Profiling
 
+## Roche — 8页章节＋可改汇率的收入Excel（2026-11-05）
+
+[下载可编辑PPT（8页）](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Top20_MNC_Strategy_Intelligence_Roche_Section_20261105_v1.pptx) · [下载收入与证据Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Roche_Revenue_CHF_FX_USD_and_Section_Evidence_20261105.xlsx) · [查看PDF](deliverables/Top20_MNC_Strategy_Intelligence_Roche_Section_20261105_v1.pdf)
+
+[使用方法、口径和待核实事项](deliverables/Roche_Section_ReadMe_中文_20261105.md) · [验证记录](deliverables/Roche_Validation_20261105.json)
+
+Excel主表依次为CHF收入、黄色可编辑汇率（第52行D:J）、USD公式版本；汇率修改会更新产品/TA汇总、CAGR与Excel图表。FY2021–25收入逐项核平，H1和9M2026另列。PPT按USD制作，3个原生图表、4个原生表格；PPT为生成时快照，非Excel外部链接。
+
+管线按公司NME标记及最高阶段去重，13 PhaseIII +3 Registration扣除giredestrant重复=15；astegolimab灰色AI标记为分类疑点单列。BD为17条selected cohort，非全量普查。Pharma Day在左、H1 call在右，分别总结未来研发动作，并附药物MoA和原文证据。
+
+![Roche章节概览](deliverables/Roche_Section_Overview_20261105.png)
+
+
 ## J&J创新药M&A — 2021至今的已核实案例底稿（2026-11-05）
 
 [下载Excel：6笔交易、11项资产/平台、历史阶段与机制字段](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/JNJ_Innovative_Medicine_MA_2021_2026_Verified_Cases_and_Gaps_20261105.xlsx) · [覆盖范围与缺口](deliverables/JNJ_Innovative_Medicine_MA_2021_2026_Verified_Cases_and_Gaps_20261105.md)

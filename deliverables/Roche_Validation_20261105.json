@@ -1,0 +1,31 @@
+{
+  "xlsx": "Roche_Revenue_CHF_FX_USD_and_Section_Evidence_20261105.xlsx",
+  "pptx": "Top20_MNC_Strategy_Intelligence_Roche_Section_20261105_v1.pptx",
+  "pdf": "Top20_MNC_Strategy_Intelligence_Roche_Section_20261105_v1.pdf",
+  "slides": 8,
+  "CHF_total": [
+    45041,
+    45551,
+    44612,
+    46171,
+    47669
+  ],
+  "USD_total_m": [
+    49495.6043956044,
+    47948.4210526316,
+    49568.8888888889,
+    52467.0454545455,
+    57432.5301204819,
+    29910.1265822785
+  ],
+  "formula_count": 924,
+  "cached_errors": [],
+  "fx_edit_test": "2025 .83 -> .90: total 52965.5555555556 USDm verified on test copy",
+  "native_charts": 3,
+  "native_tables": 4,
+  "bytes": {
+    "Top20_MNC_Strategy_Intelligence_Roche_Section_20261105_v1.pptx": 6424016,
+    "Roche_Revenue_CHF_FX_USD_and_Section_Evidence_20261105.xlsx": 93987,
+    "Top20_MNC_Strategy_Intelligence_Roche_Section_20261105_v1.pdf": 624585
+  }
+}
