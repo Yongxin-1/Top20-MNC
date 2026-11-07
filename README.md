@@ -1,5 +1,16 @@
 # Top 20 MNC Profiling
 
+## AstraZeneca Phase I/II NMEs — 可贴表Excel，2026Q2快照（2026-11-07整理）
+
+[下载Excel：总表＋3组双栏贴图区域](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/AZ_PhaseI_II_NMEs_SlideReady_2026Q2_20261107.xlsx)
+
+按用户上传的2026-07-27临床试验附录及同日期官网归档，整理52项独立早期资产：Phase I 31、Phase II 21；保留TA / Dev. stage / Asset name / Modality / MoA / Indication六列。肿瘤24、CVRM12、R&I6、Rare Disease7、Infectious Diseases3，另提供肿瘤、CVRM/感染、R&I/罕见病3组双栏复制区域。
+
+原始I/II项目76条、纳入项目53条、晚期资产早期项目23条均保留。AZD5492跨TA去重，AZD9550＋AZD6234拆为新活性成分且AZD6234不重复计数；AZD9550的Phase II联合阶段以†注明。已移出的AZD2068/AZD4360/AZD4604/tilatamig未因保留详细试验页而重新纳入。正文机制有PDF页码，未披露信息不猜测。
+
+**不是11月实时官网快照。** 当日官网请求返回403，使用页面标注27July2026的已存归档与本次同版本PDF交叉核对。仅交Excel，未制作或修改slides。
+
+
 ## Roche Phase I/II NMEs — 六列可贴表Excel（2026-11-07）
 
 [下载Excel：总表＋肿瘤/其他TA双栏贴图区域](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Roche_PhaseI_II_NMEs_SlideReady_20261107.xlsx)
