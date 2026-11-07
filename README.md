@@ -1,5 +1,12 @@
 # Top 20 MNC Profiling
 
+## Roche Phase I/II NMEs — 六列可贴表Excel（2026-11-07）
+
+[下载Excel：总表＋肿瘤/其他TA双栏贴图区域](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Roche_PhaseI_II_NMEs_SlideReady_20261107.xlsx)
+
+依据用户提供的Roche_Pipeline_Final_2026-11-07.csv，保留TA / Dev. stage / Asset name / Modality / MoA / Indication六列，按TA分组、Phase II在前。原CSV45条早期NME记录，CDH17 ADC两条相同Hansoh/pRED/阶段/适应症记录暂合并到RG6975后，展示44项：Phase I 34、Phase II 10；肿瘤21项，其他TA23项。原始45条、127条全CSV及11条排除AI均保留。CHU按具体资产身份区分；selnoflast按CAD证据归CVRM；字段互换、去重依据和未披露机制已记录。本次仅Excel，没有生成或修改slides。
+
+
 ## Roche — 8页章节＋可改汇率的收入Excel（2026-11-05）
 
 [下载可编辑PPT（8页）](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Top20_MNC_Strategy_Intelligence_Roche_Section_20261105_v1.pptx) · [下载收入与证据Excel](https://github.com/Yongxin-1/Top20-MNC/raw/refs/heads/main/deliverables/Roche_Revenue_CHF_FX_USD_and_Section_Evidence_20261105.xlsx) · [查看PDF](deliverables/Top20_MNC_Strategy_Intelligence_Roche_Section_20261105_v1.pdf)
@@ -8,7 +15,7 @@
 
 Excel主表依次为CHF收入、黄色可编辑汇率（第52行D:J）、USD公式版本；汇率修改会更新产品/TA汇总、CAGR与Excel图表。FY2021–25收入逐项核平，H1和9M2026另列。PPT按USD制作，3个原生图表、4个原生表格；PPT为生成时快照，非Excel外部链接。
 
-管线按公司NME标记及最高阶段去重，13 PhaseIII +3 Registration扣除giredestrant重复=15；astegolimab灰色AI标记为分类疑点单列。BD为17条selected cohort，非全量普查。Pharma Day在左、H1 call在右，分别总结未来研发动作，并附药物MoA和原文证据。
+**晚期管线计数修正（2026-11-07）：此历史初版的15个计数已更正为16个，即13个Phase III NME lead项目＋3个Registration NME；giredestrant的Phase III行是AI，不应再从13＋3中扣除，astegolimab应纳入。旧PPT/旧Excel仍为历史初版，本次按要求仅生成早期Excel，未改slides。**BD为17条selected cohort，非全量普查。Pharma Day在左、H1 call在右，分别总结未来研发动作，并附药物MoA和原文证据。
 
 ![Roche章节概览](deliverables/Roche_Section_Overview_20261105.png)
 
