@@ -186,3 +186,12 @@ P###表示原始DOCX正文段落号（含空段落），不是页码。未在H1�
 [Download Excel](deliverables/Roche_Drug_MA_2021_2026_Announce_Assets_Working_20261107.xlsx). Nine named acquired drug companies/entities are supported by the uploaded financial reports, with 13 asset-detail rows. The Regor drug-asset portfolio purchase is listed separately. Diagnostics and ordinary licensing/collaborations are excluded.
 
 **Working draft, not a complete or announcement-verified census.** Five announcement dates are explicitly marked unverified leads; four remain blank. Verified completion dates are separate and must not be used as announcement dates. Historical clinical stages whose announcement-day status is unverified are flagged. Primary financial-report page numbers and excerpts are included. Public announcement checks and full coverage through 7 November 2026 remain incomplete because the active environment network allowlist blocks Roche/Chugai and search/news sites.
+
+
+### Executive summary framework and project-concept pilot (7 November 2026)
+
+- [Editable PPTX: 7-slide framework and example](deliverables/Top20_MNC_Executive_Summary_Framework_Example_20261107.pptx)
+- [PDF preview](deliverables/Top20_MNC_Executive_Summary_Framework_Example_20261107.pdf)
+- [中文框架、数据提取与立项转化说明](deliverables/Executive_Summary_Framework_中文说明_20261107.md)
+
+Based on the user-provided 28-page master PDF for J&J, Roche and AstraZeneca. The example separates documented activity from internal project hypotheses. It includes a cross-company evidence matrix, an opportunity shortlist, an illustrative ADC–IO concept card, data extraction rules and decision gates. These are three-company pilot observations, not a validated Top20 census or approved internal projects. No internal asset inventory was supplied. Source locations and methodological caveats are in the notes and appendix. The original master deck was not modified.
