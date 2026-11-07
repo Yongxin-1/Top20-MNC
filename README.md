@@ -179,3 +179,10 @@ P###表示原始DOCX正文段落号（含空段落），不是页码。未在H1�
 - [v2.1 PPTX](deliverables/AstraZeneca_MNC_Profile_v2.1.pptx)
 - [v2.0 内容调整说明](deliverables/v2_Changes_and_Methodology_中文.md)
 - [v1.0 PPTX](deliverables/AstraZeneca_MNC_Profile_v1.0.pptx)
+
+
+### Roche drug-related M&A working register (7 November 2026)
+
+[Download Excel](deliverables/Roche_Drug_MA_2021_2026_Announce_Assets_Working_20261107.xlsx). Nine named acquired drug companies/entities are supported by the uploaded financial reports, with 13 asset-detail rows. The Regor drug-asset portfolio purchase is listed separately. Diagnostics and ordinary licensing/collaborations are excluded.
+
+**Working draft, not a complete or announcement-verified census.** Five announcement dates are explicitly marked unverified leads; four remain blank. Verified completion dates are separate and must not be used as announcement dates. Historical clinical stages whose announcement-day status is unverified are flagged. Primary financial-report page numbers and excerpts are included. Public announcement checks and full coverage through 7 November 2026 remain incomplete because the active environment network allowlist blocks Roche/Chugai and search/news sites.
